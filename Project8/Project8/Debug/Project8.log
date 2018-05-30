@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\лабы\3 курс\ооп\project8\project8\main.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project8.vcxproj -> E:\Лабы\3 курс\ооп\Project8\Debug\Project8.exe

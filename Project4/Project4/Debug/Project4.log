@@ -1,0 +1,17 @@
+﻿  task1.c
+  task2.c
+  task3.c
+e:\лабы\3 курс\ооп\project4\project4\task3.c(4): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+e:\лабы\3 курс\ооп\project4\project4\task3.c(9): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  task4.c
+  task5.c
+  task6.c
+  task7.c
+  task8.c
+e:\лабы\3 курс\ооп\project4\project4\task8.c(6): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+e:\лабы\3 курс\ооп\project4\project4\task8.c(11): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  task9.c
+e:\лабы\3 курс\ооп\project4\project4\task9.c(7): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+e:\лабы\3 курс\ооп\project4\project4\task9.c(9): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  Project4.vcxproj -> E:\Лабы\3 курс\ооп\Project4\Debug\Project4.exe

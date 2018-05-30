@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+e:\лабы\3 курс\ооп\project6\project6\stack.cpp(52): warning C4715: Stack::operator=: значение возвращается не при всех путях выполнения
+e:\лабы\3 курс\ооп\project6\project6\stack.cpp(40): warning C4715: Stack::operator=: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1561: точка входа должна быть определена

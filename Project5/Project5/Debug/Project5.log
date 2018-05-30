@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  main.cpp
+e:\лабы\3 курс\ооп\project5\project5\main.cpp(3): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Project5.vcxproj -> E:\Лабы\3 курс\ооп\Project5\Debug\Project5.exe
